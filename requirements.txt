@@ -1,0 +1,9 @@
+streamlit
+streamlit-option-menu
+groq
+python-dotenv
+Pillow
+gTTS
+scikit-learn
+numpy
+pandas
