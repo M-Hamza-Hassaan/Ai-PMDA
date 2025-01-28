@@ -1,5 +1,7 @@
 # OutBox AI
 
+![Home Page](path/to/image)
+
 ## Overview
 
 OutBox AI is an innovative, AI-powered medical diagnostics assistant designed to provide accessible and real-time health insights. The platform leverages advanced machine learning models to assist with diagnosing various medical conditions, including diabetes, heart disease, and Parkinson's disease. Additionally, it offers an AI medical assistant to analyze symptoms and medical images, making it an indispensable tool for healthcare providers in remote and underdeveloped areas.
