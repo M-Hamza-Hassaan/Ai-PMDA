@@ -1,6 +1,7 @@
 # OutBox AI
 
-![Home Page](path/to/image)
+![Home Page](HomePage.JPG)
+![Parkinson Page](Parkinson.JPG)
 
 ## Overview
 
