@@ -42,11 +42,11 @@ OutBox AI uses AI/ML technologies to:
 
 1. Clone the repository:
    ```bash
-   git clone <https://github.com/M-Hamza-Hassaan/Ai-PMDA.git>
+   git clone https://github.com/M-Hamza-Hassaan/Ai-PMDA.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd <Ai-PMDA>
+   cd Ai-PMDA
    ```
 3. Install the required dependencies:
    ```bash
@@ -109,11 +109,14 @@ project-directory/
    ```
 5. Submit a pull request.
 
+## Website
+Access the application here: [OutBox AI](https://outbox-ai.streamlit.app/)
+
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ## Contact
 
-For any inquiries or feedback, please contact [M. Hamza Hassaan](https://www.linkedin.com/in/muhammad-hamza-hassaan/).
+For any inquiries or feedback, please contact me on [LinkedIn](https://www.linkedin.com/in/muhammad-hamza-hassaan/).
 
